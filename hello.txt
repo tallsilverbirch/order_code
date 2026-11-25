@@ -6,3 +6,7 @@ old：36
 fell：sleep
 always:byebye
 bigname:keai
+old1：36
+fell1：sleep
+always1:byebye
+bigname1:keai
