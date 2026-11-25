@@ -3,3 +3,6 @@ second name：baihua
 sex:female
 phone: 1111222333
 old：36
+fell：sleep
+always:byebye
+bigname:keai
